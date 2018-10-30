@@ -1,0 +1,1 @@
+include ':app', ':myapp8', ':myapp8_self', ':myapp9', ':myapp17'

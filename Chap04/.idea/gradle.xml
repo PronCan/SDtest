@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/myapp01" />
+            <option value="$PROJECT_DIR$/myapp02" />
+            <option value="$PROJECT_DIR$/myapp03" />
+            <option value="$PROJECT_DIR$/myapp04" />
+            <option value="$PROJECT_DIR$/myapp05" />
+            <option value="$PROJECT_DIR$/myapp06" />
+            <option value="$PROJECT_DIR$/myapp07" />
+            <option value="$PROJECT_DIR$/myapp08" />
+            <option value="$PROJECT_DIR$/myapp13_prob" />
+            <option value="$PROJECT_DIR$/myapp14" />
+            <option value="$PROJECT_DIR$/myapp15" />
+            <option value="$PROJECT_DIR$/myapp16" />
+            <option value="$PROJECT_DIR$/myapp17" />
+            <option value="$PROJECT_DIR$/myapp18" />
+            <option value="$PROJECT_DIR$/myapp19" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
